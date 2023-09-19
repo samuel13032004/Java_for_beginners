@@ -1,0 +1,7 @@
+-classpath 'C:\\Users\\sdeni\\IdeaProjects\\Java for beginners\\1. Fundamentals\\Structure\\1.2 Say Hello\\build\\classes\\java\\main;C:\\Users\\sdeni\\IdeaProjects\\Java for beginners\\1. Fundamentals\\Structure\\1.2 Say Hello\\build\\resources\\main;C:\\Users\\sdeni\\IdeaProjects\\Java for beginners\\util\\build\\classes\\java\\main;C:\\Users\\sdeni\\IdeaProjects\\Java for beginners\\util\\build\\resources\\main'
+-d 'C:\\Users\\sdeni\\IdeaProjects\\Java for beginners\\1. Fundamentals\\Structure\\1.2 Say Hello\\build\\docs\\javadoc'
+-doctitle '1._Fundamentals-Structure-1.2_Say_Hello API'
+-notimestamp 
+-quiet 
+-windowtitle '1._Fundamentals-Structure-1.2_Say_Hello API'
+'C:\\Users\\sdeni\\IdeaProjects\\Java for beginners\\1. Fundamentals\\Structure\\1.2 Say Hello\\src\\SayHello.java'
