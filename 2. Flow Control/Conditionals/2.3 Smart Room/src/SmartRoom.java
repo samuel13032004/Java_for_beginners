@@ -1,4 +1,6 @@
-public class SmartRoom
+ºpublic
+
+class SmartRoom
 {
    public static void main(String[] args)
    {
